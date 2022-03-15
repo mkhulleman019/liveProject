@@ -103,3 +103,8 @@ I wanted to have a text overlay that faded in and out on hover for some of the i
     opacity: 1;
 }
 ```
+
+<h1> Outcome: </h1>
+I was able to collaborate with another designer to make a working site for a client. I experienced what it was like to work in a team environment utilizing an Agile/Scrum method. We had a sprint meeting, worked on assigned stories, and met up regularly to coordinate our ideas. I really enjoyed working with another developer to bounce ideas off one another, gather inspiration, and really come together as a team to create a beautiful product for our client.
+
+I also had plenty of opportunities to problem solve, research new techniques, and self teach. I really enjoyed this project as this is what I am passionate. I am creative and artistic, but I am also very logical and love solving problems, and UI/UX Design is a great blend of the two.
