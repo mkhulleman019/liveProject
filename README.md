@@ -3,7 +3,8 @@ TTA Live Project Creating Site for UC Construction
 
 <h1> Overview: </h1>
 
-During the end of my UI/UX Design boot camp at The Tech Academy, I took part in a Live Project in which a team member and I collaborated designs and created a web page for a construction company. In the two week span of the project, I created a logo, wireframes, mockups, prototypes, and a working home page that was viewable in mobile, tablet, and desktop. During this time, I was able to work in Azure DevOps and coordinate with a team member and instructor in Scrum Meetings. I experienced what it was like to work on a team and coordinate design elements such as which logo and font families to use, nav and footer layouts, and overall feel of the designs. 
+During the end of my UI/UX Design boot camp at The Tech Academy, I took part in a Live Project in which a team member and I collaborated designs and created a web page for a construction company. In the two week span of the project, I created a logo, wireframes, mockups, prototypes, and a working home page that was viewable in mobile, tablet, and desktop. During this time, I was able to work in Azure DevOps and coordinate with a team member and instructor in Scrum Meetings. I experienced what it was like to work on a team and coordinate design elements such as which logo and font families to use, nav and footer layouts, and overall feel of the designs. (Note: The logo we decided to use in our designs was created by my partner, Rob Corpus.)
+![UC Desktop](https://user-images.githubusercontent.com/96311253/158440821-1cb15276-f532-481a-b90e-14043dcfbc54.png)
 
 
 <h1> Problem Solving: </h1>
@@ -78,6 +79,9 @@ I designed the nav to be more of a triangular shape to fit with the flow of the 
 }
     
 ```
+
+![UC Mobile Nav](https://user-images.githubusercontent.com/96311253/158442865-706911ff-eab8-4d95-b8dc-c923295cda15.png)
+
 
 I wanted to have a text overlay that faded in and out on hover for some of the images as if they were links to other pages on the site. I had done this in a previous course, but had some issues doing so. I was able to quickly figure it out that I needed to do a transformation changing the opacity of the overlay from 0 to 1. 
 
